@@ -1,0 +1,34 @@
+1
+00:00:01,000 --> 00:00:03,000
+Hey, Its me Goofy!!
+2
+00:00:03,000 --> 00:00:06,000
+Today we are going to talk about earth globe
+3
+00:00:06,000 --> 00:00:09,000
+A globe is a spherical model of Earth, of some other celestial body, or of the celestial sphere.
+4
+00:00:09,000 --> 00:00:11,000
+Globes serve similar purposes to maps but unlike maps, do not distort the surface that they portray except to scale it down.
+5
+00:00:11,000 --> 00:00:14,000
+Globes serve similar purposes to maps but unlike maps, do not distort the surface that they portray except to scale it down.
+6
+00:00:14,000 --> 00:00:17,000
+A globe of Earth is called a terrestrial globe. A globe of the celestial sphere is called a celestial globe.
+7
+00:00:17,000 --> 00:00:20,000
+A globe shows details of its subject. A terrestrial globe shows land masses and water bodies.
+8
+00:00:20,000 --> 00:00:23,000
+It might show nations and prominent cities and the network of latitude and longitude lines. Some have raised relief to show mountains.
+9
+00:00:23,000 --> 00:00:26,000
+A celestial globe shows stars, and may also show positions of other prominent astronomical objects.
+10
+00:00:26,000 --> 00:00:29,000
+A celestial globe shows stars, and may also show positions of other prominent astronomical objects.
+11
+00:00:29,000 --> 00:00:30,000
+Video created by Durgesh!!
+
